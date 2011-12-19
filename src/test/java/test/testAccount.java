@@ -18,7 +18,7 @@ public class testAccount {
     public void testAccount(){
         Account account = new Account();
 
-        assertNull(account);
+        assertNotNull(account);
 
     }
 }
