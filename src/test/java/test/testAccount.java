@@ -21,4 +21,11 @@ public class testAccount {
         assertNotNull(account);
 
     }
+
+    @Test
+    public void testAction(){
+        Account account = new Account();
+
+    }
+
 }
